@@ -16,7 +16,7 @@ import Conexion.OracleConexion;
 
 public class CargarArchivo {
 
-	///ddddd
+	///dddddsasdasdasd
 	public static String[] cargardatos(String ptipo) throws Exception{
 		 File  f= new File("");
 		 FileInputStream fstream = new FileInputStream(f.getAbsolutePath()+"\\dataftp.txt");
