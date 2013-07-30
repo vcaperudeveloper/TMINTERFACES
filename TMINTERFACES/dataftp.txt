@@ -1,0 +1,2 @@
+192.168.1.101       cstock              cstock              D:\\vcaperu\\proyectos\\git\\InterfaceGit\\TMINTERFACES\\FTPTEMP\\                                  /FTP_CSTOCK/                                      cstock              
+192.168.1.101       sfslftp105          sfslftp105          D:\\vcaperu\\proyectos\\git\\InterfaceGit\\TMINTERFACES\\FTPTEMP\\                                  /FTP_SFSLFTP105/                                  tm                  
